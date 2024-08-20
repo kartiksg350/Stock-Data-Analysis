@@ -3,10 +3,10 @@ Stock Data Analysis Project
 Project Structure
 The project is divided into two main parts:
 
-Part 1: Stock Data Analysis for a Single Stock (Amazon)
+# Part 1: Stock Data Analysis for a Single Stock (Amazon)
 Objective: Analyze the historical prices of Amazon (AMZN) stock and understand its overall trends.
 
-# Tasks:
+## Tasks:
 Identify the date with the highest closing price.
 Calculate the number of days with positive daily returns.
 Determine the daily price range and identify the day with the lowest range.
